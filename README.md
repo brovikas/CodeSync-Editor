@@ -25,7 +25,7 @@ Link : https://real-time-collaborative-editor-seven.vercel.app/
 | Backend     | Node.js, Express, Socket.IO                       |
 | Realtime    | WebSockets via Socket.IO                          |
 | Code Execution | [OnlineCompiler.io](https://onlinecompiler.io/) API |
-| Deployment  | Frontend on Vercel/Netlify, backend on Render/Railway |
+| Deployment  | Frontend on Vercel, backend on Render |
 
 ---
 
@@ -153,7 +153,3 @@ This app has a stateful Socket.IO backend, so it's deployed as two separate serv
 > **Intern:** Vikas Sharma | **ID:** CITS2901 | **Duration:** 4 Weeks
 
 ---
-
-## License
-
-This project was developed for educational purposes as part of an internship program.
