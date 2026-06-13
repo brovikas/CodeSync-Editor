@@ -8,10 +8,7 @@ import {
 } from "./roomStore.js";
 import { executeCode } from "../services/executionService.js";
 
-/**
- * Tracks which room each socket is currently in, since a socket
- * can only be reliably associated with state we attach to it.
- */
+
 export function registerSocketHandlers(io, socket) {
   console.log(`User connected: ${socket.id}`);
 

@@ -43,7 +43,7 @@ const App = () => {
       {/* Mobile top bar */}
       <div className="flex items-center justify-between border-b border-line bg-panel px-4 py-3 md:hidden">
         <h2 className="font-serif text-base tracking-wide text-ash">
-          <span className="text-moss">道</span> Code Room
+          <span className="text-moss">道</span> CodeSync
         </h2>
         <button
           type="button"
