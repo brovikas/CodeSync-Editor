@@ -146,10 +146,4 @@ This app has a stateful Socket.IO backend, so it's deployed as two separate serv
 
 ---
 
-## Internship Context
 
-> Developed as part of the **CodTech IT Solutions** internship program.
->
-> **Intern:** Vikas Sharma | **ID:** CITS2901 | **Duration:** 4 Weeks
-
----
