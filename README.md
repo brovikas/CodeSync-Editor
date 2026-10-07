@@ -2,7 +2,7 @@
 
 A real-time collaborative code editor where multiple users can join a shared room, write and edit code together, switch languages, see who's online and typing, and execute code through an external compiler API. Built with React, Tailwind CSS, Express, and Socket.IO.
 
-Link : https://real-time-collaborative-editor-seven.vercel.app/
+Link : codesyncvex.vercel.app
 
 ## Features
 
